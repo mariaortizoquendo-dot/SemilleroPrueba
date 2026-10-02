@@ -1,1 +1,6 @@
-# SemilleroPrueba
+# SemilleroPruebsdjasldj
+:q
+a:q
+:wq
+:	
+
